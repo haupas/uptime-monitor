@@ -27,7 +27,7 @@ status-website:
   cname: status.unehre.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/haupas/uptime-monitor/master/assets/upptime-icon.svg
   name: Upptime
   theme: ocean
   introTitle: "**Upptime** is the opefen-source uptime monitor and status page, powered entirely by GitHub."
