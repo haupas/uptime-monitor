@@ -6,6 +6,8 @@ repo: uptime-monitor # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Mail Server
+    url: $URL_MAIL_SERVER
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
