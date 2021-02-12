@@ -7,9 +7,9 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Mail Server
-    url: $URL_MAIL_SERVER
+    url: $URL_SERVER_MAIL
   - name: WebMail Server
-    url: $URL_WEBMAIL_SERVER
+    url: $URL_SERVER_WEBMAIL
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
