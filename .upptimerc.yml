@@ -8,6 +8,8 @@ sites:
     url: https://www.google.com
   - name: Mail Server
     url: $URL_MAIL_SERVER
+  - name: WebMail Server
+    url: $URL_WEBMAIL_SERVER
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
