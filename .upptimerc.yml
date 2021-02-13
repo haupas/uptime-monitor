@@ -11,8 +11,8 @@ sites:
   - name: WebMail Server
     url: $URL_SERVER_WEBMAIL
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
+    url: $URL_SERVER_CDN
+  - name: CDN Server
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
