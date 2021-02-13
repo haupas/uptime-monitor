@@ -24,6 +24,7 @@ sites:
 
 status-website:
   name: Upptime
+  publish: true
   logoUrl: https://raw.githubusercontent.com/haupas/uptime-monitor/master/assets/upptime-icon.svg
   cname: status.unehre.de
   theme: ocean
