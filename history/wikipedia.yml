@@ -1,7 +1,7 @@
-url: https://en.wikipedia.org
+url: $URL_SERVER_CDN
 status: up
 code: 200
-responseTime: 62
-lastUpdated: 2021-02-12T23:02:18.699Z
+responseTime: 483
+lastUpdated: 2021-02-13T00:15:16.599Z
 startTime: Mon Aug 10 2020 07:54:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
