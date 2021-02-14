@@ -18,6 +18,10 @@ sites:
     url: $URL_SERVER_SOUNDBOARD
   - name: Statistik Server
     url: $URL_SERVER_STATS
+  - name: Traefik Server
+    url: $URL_SERVER_TRAEFIK
+    expectedStatusCodes:
+      - 401
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
