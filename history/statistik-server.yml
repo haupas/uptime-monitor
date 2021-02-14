@@ -1,7 +1,7 @@
 url: $URL_SERVER_STATS
-status: down
-code: 404
-responseTime: 477
-lastUpdated: 2021-02-14T03:25:57.687Z
+status: up
+code: 200
+responseTime: 997
+lastUpdated: 2021-02-14T04:44:35.743Z
 startTime: Sun Feb 14 2021 03:11:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
