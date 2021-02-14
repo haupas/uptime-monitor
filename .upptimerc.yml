@@ -6,6 +6,8 @@ repo: uptime-monitor # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Bookmarks Server
+    url: $URL_SERVER_BOOKMARKS
   - name: Mail Server
     url: $URL_SERVER_MAIL
   - name: WebMail Server
