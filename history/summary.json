@@ -79,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cdn-server",
     "status": "up",
-    "uptime": "22.33%",
-    "uptimeDay": "23.97%",
-    "uptimeWeek": "22.33%",
-    "uptimeMonth": "22.33%",
-    "uptimeYear": "22.33%",
+    "uptime": "22.35%",
+    "uptimeDay": "23.99%",
+    "uptimeWeek": "22.35%",
+    "uptimeMonth": "22.35%",
+    "uptimeYear": "22.35%",
     "time": 604,
     "timeDay": 626,
     "timeWeek": 604,
@@ -117,19 +117,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "statistik-grafana-web-server",
     "status": "up",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
     "timeMonth": 621,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2021-02-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Statistik Datenbank (influxdb) Server",
@@ -137,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "statistik-datenbank-influxdb-server",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 677,
     "timeDay": 677,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-02-14": 14
+      "2021-02-14": 15
     }
   },
   {
