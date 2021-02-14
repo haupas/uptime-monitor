@@ -20,8 +20,6 @@ sites:
     url: $URL_SERVER_STATS_GRAFANA
   - name: Statistik Datenbank (influxdb) Server
     url: $URL_SERVER_STATS_DB
-    headers:
-    - "Authorization: Basic $SERVER_STATS_DB_CREDENTIALS"
   - name: Traefik Server
     url: $URL_SERVER_TRAEFIK
     expectedStatusCodes:
