@@ -16,8 +16,10 @@ sites:
     url: $URL_SERVER_CDN
   - name: Soundboard Server
     url: $URL_SERVER_SOUNDBOARD
-  - name: Statistik Server
-    url: $URL_SERVER_STATS
+  - name: Statistik Grafana Web Server
+    url: $URL_SERVER_STATS_GRAFANA
+  - name: Statistik Datenbank (influxdb) Server
+    url: $URL_SERVER_STATS_DB
   - name: Traefik Server
     url: $URL_SERVER_TRAEFIK
     expectedStatusCodes:
