@@ -16,6 +16,8 @@ sites:
     url: $URL_SERVER_CDN
   - name: Soundboard Server
     url: $URL_SERVER_SOUNDBOARD
+  - name: Statistik Server
+    url: $URL_SERVER_STATS
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
