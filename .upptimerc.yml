@@ -1,3 +1,6 @@
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
 # Change these first
 owner: haupas # Your GitHub username
 repo: uptime-monitor # Your GitHub repository name
@@ -40,6 +43,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/haupas/uptime-monitor/master/assets/upptime-icon.svg
   cname: status.unehre.de
   theme: ocean
+  # themeUrl: https://status.unehre.de/custom-theme.css
   # baseUrl: /uptime-monitor
   introTitle: "**Upptime** is the opefen-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -56,6 +60,3 @@ status-website:
       content: "ocean"
     - name: "robots"
       content: "noindex"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
