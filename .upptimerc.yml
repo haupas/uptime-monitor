@@ -1,11 +1,9 @@
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-# Change these first
-owner: haupas # Your GitHub username
-repo: uptime-monitor # Your GitHub repository name
+owner: haupas
+repo: uptime-monitor
 
-# Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
