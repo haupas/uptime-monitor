@@ -13,8 +13,6 @@ sites:
     url: $URL_SERVER_MAIL
   - name: WebMail Server
     url: $URL_SERVER_WEBMAIL
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: CDN Server
     url: $URL_SERVER_CDN
   - name: Soundboard Server
@@ -27,13 +25,6 @@ sites:
     url: $URL_SERVER_TRAEFIK
     expectedStatusCodes:
       - 401
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   name: Upptime
