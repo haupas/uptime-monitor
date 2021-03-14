@@ -13,7 +13,7 @@
     "time": 74,
     "timeDay": 55,
     "timeWeek": 64,
-    "timeMonth": 73,
+    "timeMonth": 72,
     "timeYear": 74,
     "dailyMinutesDown": {}
   },
@@ -40,27 +40,29 @@
     "url": "$URL_SERVER_MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 490,
     "timeWeek": 604,
-    "timeMonth": 657,
+    "timeMonth": 652,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "WebMail Server",
     "url": "$URL_SERVER_WEBMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "web-mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 209,
     "timeMonth": 226,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "CDN Server",
@@ -77,15 +81,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cdn-server",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.76%",
+    "uptimeYear": "96.77%",
     "time": 548,
     "timeDay": 430,
     "timeWeek": 487,
-    "timeMonth": 556,
+    "timeMonth": 553,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2021-02-13": 1355
@@ -105,7 +109,7 @@
     "time": 545,
     "timeDay": 403,
     "timeWeek": 481,
-    "timeMonth": 545,
+    "timeMonth": 544,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -161,7 +165,7 @@
     "time": 494,
     "timeDay": 499,
     "timeWeek": 512,
-    "timeMonth": 494,
+    "timeMonth": 493,
     "timeYear": 494,
     "dailyMinutesDown": {}
   }
