@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 73,
     "timeMonth": 72,
     "timeYear": 76,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-02": 0
+    }
   },
   {
     "name": "Bookmarks Server",
@@ -83,11 +85,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cdn-server",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.81%",
     "time": 579,
     "timeDay": 776,
     "timeWeek": 668,
