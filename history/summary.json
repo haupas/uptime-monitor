@@ -106,10 +106,10 @@
     "url": "$URL_SERVER_SOUNDBOARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "soundboard-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
@@ -117,7 +117,9 @@
     "timeWeek": 580,
     "timeMonth": 595,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 1
+    }
   },
   {
     "name": "Statistik Grafana Web Server",
@@ -162,9 +164,9 @@
     "url": "$URL_SERVER_TRAEFIK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traefik-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,6 +175,8 @@
     "timeWeek": 562,
     "timeMonth": 561,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
